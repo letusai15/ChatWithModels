@@ -2,7 +2,6 @@
 
 As the name says, it's a ChatBot 😊
 
-![](https://github.com/letusai15/profileforgeapp/blob/main/src/assets/logo/ProfileForgeDemo.gif)
 
 # Tech Stack
 
